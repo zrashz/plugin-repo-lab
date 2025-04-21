@@ -3,6 +3,8 @@
     "name": "Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
   },
+
+  
   {
     "name": "21CIS0062",
     "entry": "./plugins/21CIS0062/plugin.js"
