@@ -7,5 +7,12 @@
   {
     "name": "New folder",
     "entry": "./plugins/New folder/new.js"
+  },
+
+  {
+    "name": "plugin-conflict",
+    "entry": "./plugins/plugin-conflict/plugin.js"
   }
+
+
 ]
